@@ -2,7 +2,7 @@
 
 ## Visi
 
-"Pada tahun 2027 menjadi perguruan tinggi yang unggul dalam bidang manufaktur dan jasa berbasis teknologi informasi dan komunikasi pada tingkat Nasional."
+> Pada tahun 2027 menjadi perguruan tinggi yang unggul dalam bidang manufaktur dan jasa berbasis teknologi informasi dan komunikasi pada tingkat Nasional.
 
 ## Misi
 
